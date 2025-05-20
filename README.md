@@ -5,4 +5,5 @@
 
 注意：暂时不支持链接转发，链接转发会默认为文本转发
 
-如有问题，请联系tg：  http:t.me/Hhhhbbb8
+个人娱乐用，如有问题，请联系tg：
+https://t.me/Hhhhbbb8
